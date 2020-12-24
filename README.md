@@ -1,5 +1,6 @@
-<h1 align="center">Siddharth</h1>
-<h3 align="center">Learner</h3>
+<h1 align="left">HEY !</h1>
+I'm Siddharth from India, currently student of Computer Engg. in Pune University.
+I like coding in C++ and Python also like ICPC and other competative competations.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sid672)](https://github.com/anuraghazra/github-readme-stats)
 
