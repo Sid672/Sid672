@@ -1,7 +1,8 @@
-<h1 align="left">HEY !</h1>
+### HEY!
 I'm Siddharth from India, currently student of Computer Engg. in Pune University.
 I like coding in C++ and Python also like ICPC and other competative competations.
 
+### Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sid672&show_icons=true&theme=merko)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,7 +13,3 @@ I like coding in C++ and Python also like ICPC and other competative competation
 <a href="https://instagram.com/siddh_arth_7898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="siddh_arth_7898" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sid7898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sid7898" height="30" width="40" /></a>
 </p>
-
-
-
-
