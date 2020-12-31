@@ -1,6 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid672&label=Profile%20views&color=14f0cb&style=plastic" alt="sid672" /> </p>
+
 ### HEY!
 I'm Siddharth from India, currently student of Computer Engg. in Pune University.
 I like coding in C++ and Python also like ICPC and other competative competations.
+
+- 🔭 I’m currently working on **OOP_unit_1**
 
 ### Stats:
 ![true](https://github-readme-stats.vercel.app/api?username=Sid672&show_icons=true&theme=merko)
