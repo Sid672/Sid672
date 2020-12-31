@@ -4,7 +4,7 @@ I like coding in C++ and Python also like ICPC and other competative competation
 
 ### Stats:
 ![true](https://github-readme-stats.vercel.app/api?username=Sid672&show_icons=true&theme=merko)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid672&" alt="sid672"/></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid672&theme=dark" alt="sid672" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
